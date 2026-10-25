@@ -4,6 +4,9 @@ Tree-ring measurement and crossdating for tree cores, stem disks and microscopic
 
 **[Download the latest release](https://github.com/zulfiyor/PyTreeRingRecorder/releases/latest)** · **[All releases](https://github.com/zulfiyor/PyTreeRingRecorder/releases)**
 
+
+**PDF user guides / Руководства / 用户手册 (2026-10-18):** [English](https://github.com/zulfiyor/PyTreeRingRecorder/releases/download/v1.0.1-20261025175724/PyTreeRingRecorder_UserGuide_EN_2026-10-18.pdf) · [Русский](https://github.com/zulfiyor/PyTreeRingRecorder/releases/download/v1.0.1-20261025175724/PyTreeRingRecorder_UserGuide_RU_2026-10-18.pdf) · [中文](https://github.com/zulfiyor/PyTreeRingRecorder/releases/download/v1.0.1-20261025175724/PyTreeRingRecorder_UserGuide_ZH_2026-10-18.pdf)
+
 ## English
 
 PyTreeRingRecorder supports manual and automatic boundary placement, multiple radii and core images, paired points, missing rings, auxiliary ring markers and links, reference chronology comparison, Blue Intensity, and measurement import/export including POS, RWL, WID and CSV. Microscopic sections use a separate Cell-aware detector; core/disk and microsection training remain separate. Pencil drawings and shapes provide project annotations.
